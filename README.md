@@ -1,2 +1,4 @@
-# DEx.top
-DEx.top - Instant Trading on Chain
+# DEx.top - Instant Trading on Chain
+
+Exchange: http://DEx.top
+
