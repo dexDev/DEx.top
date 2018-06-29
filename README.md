@@ -1,6 +1,6 @@
 # DEx.top - Instant Trading on Chain
 
-Exchange: https://DEx.top
+Exchange: https://dex.top
 
 ## Overview
 
