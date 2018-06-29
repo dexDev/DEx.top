@@ -18,10 +18,10 @@ See the [White Paper](./whitepaper/DEx-Whitepaper-Short-Version.pdf) for details
 
 ## Smart Contract
 It is deployed at [0x7600977](https://etherscan.io/address/0x7600977eb9effa627d6bd0da2e5be35e11566341) on Ethereum.
-See the [Spec](./smart-contract/dextop-spec.md), the source code of [dextop.sol](./smart-contract/dextop.sol), and the [Gas Cost Chart](./smart-contract/dextop-gas-cost.md) for details.
+See the [Contract Spec](./smart-contract/dextop-spec.md), the source code of [dextop.sol](./smart-contract/dextop.sol), and the [Gas Cost Chart](./smart-contract/dextop-gas-cost.md) for details.
 
 Here is an article introducing the gas cost saving methods used in DEx.top
-[link](https://medium.com/coinmonks/techniques-to-cut-gas-costs-for-your-dapps-7e8628c56fc9).
+[[link]](https://medium.com/coinmonks/techniques-to-cut-gas-costs-for-your-dapps-7e8628c56fc9).
 
 ## License
 DEx.top is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
